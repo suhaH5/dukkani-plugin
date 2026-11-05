@@ -1,0 +1,15 @@
+{
+  "name": "dukkani",
+  "owner": {
+    "name": "Dukkani",
+    "email": "contact@dukkanlink.com"
+  },
+  "plugins": [
+    {
+      "name": "dukkani",
+      "source": "./",
+      "description": "Saudi neighbourhood groceries: find the nearest grocery, send it your list on WhatsApp, estimate your monthly grocery bill from official prices."
+    }
+  ],
+  "description": "Dukkani (dukkanlink.com): Saudi neighbourhood groceries for Claude."
+}

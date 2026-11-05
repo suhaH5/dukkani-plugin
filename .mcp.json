@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "dukkani": { "type": "http", "url": "https://dukkanlink.com/mcp" }
+  }
+}

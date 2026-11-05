@@ -1,0 +1,26 @@
+{
+  "name": "dukkani",
+  "displayName": "Dukkani دكّاني — Saudi neighbourhood groceries",
+  "description": "Find a neighbourhood grocery (بقالة) anywhere in Saudi Arabia, send it your shopping list on WhatsApp, estimate your monthly grocery bill from official GASTAT average prices, and help grocery owners run their shop from a phone.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dukkani",
+    "email": "contact@dukkanlink.com",
+    "url": "https://dukkanlink.com"
+  },
+  "homepage": "https://dukkanlink.com/app/claude/",
+  "repository": "https://github.com/suhaH5/dukkani-plugin",
+  "license": "MIT",
+  "keywords": [
+    "saudi-arabia",
+    "grocery",
+    "baqala",
+    "arabic",
+    "shopping-list",
+    "whatsapp",
+    "prices",
+    "pos"
+  ],
+  "privacyPolicyUrl": "https://dukkanlink.com/privacy",
+  "icon": "./.claude-plugin/icon.png"
+}
